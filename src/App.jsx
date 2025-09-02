@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className='flex-center h-[100vh] flex-col'>
       <h1 className='text-5xl font-bold'> 1234 </h1>
-      <h4 className='flex-center text-cyan-500'>center</h4>
+      <h4 className='flex-center text-cyan-600'>center</h4>
     </div>
 
   )
